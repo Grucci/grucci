@@ -12,7 +12,7 @@
   <img align="center" alt="Grucci-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Grucci-Azure" height="30" width="30" src="https://img.icons8.com/color/480/000000/azure-1.png">
   <img align="center" alt="Grucci-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Grucci-yoda" src="https://c.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif">
+  <img align="right" alt="Grucci-yoda" src="https://c.tenor.com/h5dMJ6Dqu9MAAAAC/groot-cosbaby.gif">
 </div>
 
   ##
@@ -41,4 +41,5 @@ https://dev.to/
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://devicon.dev/
 https://shields.io/
+https://c.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif
 --!>
