@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/Grucci">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grucci&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grucci&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Grucci&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grucci&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Grucci-AWS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
