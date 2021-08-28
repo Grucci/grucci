@@ -6,7 +6,6 @@
   <a href="https://github.com/Grucci">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Grucci&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grucci&layout=compact&theme=yeblu"/>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ebe2b29ad0e5a981f862616986286d90895d7a82d0459e87bb512821885135cf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e646572736f6e6c75697a70657265697261266c616e67735f636f756e743d3130"><img src="https://camo.githubusercontent.com/ebe2b29ad0e5a981f862616986286d90895d7a82d0459e87bb512821885135cf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e646572736f6e6c75697a70657265697261266c616e67735f636f756e743d3130" alt="grucci" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gruccci&amp;langs_count=10" style="max-width:100%;"></a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Grucci-AWS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
