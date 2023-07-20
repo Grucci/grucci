@@ -24,6 +24,14 @@
 
 <br/>
 
+### Badges
+
+<div style="display: inline_block">
+  <img align="center" alt="azure-fundamentals" width="6%" src="./badges/azure-fundamentals.png">
+  <img align="center" alt="sre-fundamentals" width="5%" src="./badges/sre-foundation.png">
+  <img align="center" alt="docker-linuxtips" width="6.6%" src="./badges/docker-badge.png">
+  <img align="center" alt="gitlab-associate" width="6%" src="./badges/gitlab-associate.png">
+</div>
 
   ##
 
