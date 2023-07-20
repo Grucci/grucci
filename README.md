@@ -7,13 +7,23 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Grucci&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grucci&layout=compact&theme=yeblu"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Grucci-AWS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Grucci-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Grucci-Azure" height="30" width="30" src="https://img.icons8.com/color/480/000000/azure-1.png">
+
+### Technologies & Tools
+
+<div style="display: inline_block">
+  <img align="center" alt="git" width="4.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="docker" width="7.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="kubernetes" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="azure" width="4.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="aws" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="gcp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Grucci-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="right" alt="Grucci-groot" height="200" width="230" src="https://64.media.tumblr.com/96901d1ecb19b4323a4881fff2a003e1/tumblr_oomnbyD4AT1sejmmmo1_400.gifv">
 </div>
+
+<br/>
+
 
   ##
 
@@ -44,4 +54,11 @@ https://shields.io/
 https://c.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif
 https://c.tenor.com/XrEozUwGI_oAAAAC/groot-this.gif
 langs_count=7&
+
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Grucci-AWS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Grucci-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Grucci-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
 --!>
