@@ -28,9 +28,11 @@
 <div style="display: inline_block">
   <img align="center" alt="aws-practitioner" width="7%" src="./badge/aws-practitioner-badge.png">
   <img align="center" alt="azure-fundamentals" width="7%" src="./badge/azure-fundamentals-600x600.png">
+  <img align="center" alt="oci-fundamentals" width="7%" src="./badge/Oracle_Cloud_Infrastructure.jpg">
   <img align="center" alt="sre-fundamentals" width="7%" src="./badge/DevOps_SREFoundation.jpg">
   <img align="center" alt="sre-practitioner" width="7%" src="./badge/SREPractitioner.jpg">
   <img align="center" alt="devops-leader" width="7%" src="./badge/DevOpsLeader.jpg">
+
 </div>
 
   ##
