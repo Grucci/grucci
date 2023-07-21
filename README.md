@@ -26,10 +26,10 @@
 ### Badges
 
 <div style="display: inline_block">
-  <img align="center" alt="aws-practitioner" width="6%" src="./badges/aws-practitioner-badge.png">
-  <img align="center" alt="azure-fundamentals" width="6%" src="./badges/azure-fundamentals-600x600.png">
-  <img align="center" alt="sre-fundamentals" width="5%" src="./badges/sre-foundation.png">
-  <img align="center" alt="sre-practitioner" width="6%" src="./badges/sre-practitioner.png">
+  <img align="center" alt="aws-practitioner" width="6%" src="./badge/aws-practitioner-badge.png">
+  <img align="center" alt="azure-fundamentals" width="6%" src="./badge/azure-fundamentals-600x600.png">
+  <img align="center" alt="sre-fundamentals" width="5%" src="./badge/sre-foundation.png">
+  <img align="center" alt="sre-practitioner" width="6%" src="./badge/sre-practitioner.png">
 </div>
 
   ##
