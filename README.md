@@ -48,6 +48,8 @@
 </div>
   
 ![Snake animation](https://github.com/Grucci/grucci/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
   
 <!-- 
 <img align="center" alt="Grucci-VSCode" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
