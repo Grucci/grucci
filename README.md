@@ -46,11 +46,11 @@
   [![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.grucci@gmail.com)
 
 </div>
-  
-![Snake animation](https://github.com/Grucci/grucci/blob/output/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
   
 <!-- 
 <img align="center" alt="Grucci-VSCode" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
+  
+![Snake animation](https://github.com/Grucci/grucci/blob/output/github-contribution-grid-snake.svg)
 --!>
