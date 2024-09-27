@@ -18,7 +18,7 @@
   <img align="center" alt="terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="kubernetes" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="azure" width="4.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="aws" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="aws" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="gcp" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="right" alt="Grucci-groot" height="200" width="230" src="https://64.media.tumblr.com/96901d1ecb19b4323a4881fff2a003e1/tumblr_oomnbyD4AT1sejmmmo1_400.gifv">
 </div>
