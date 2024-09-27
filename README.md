@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Grucci</h1>
+- 🔭 I’m currently working on Bradesco Bank with Cloud Infrastructure Engineering
 
   ##
 
