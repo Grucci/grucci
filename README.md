@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/Grucci">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Grucci&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grucci&layout=compact&theme=yeblu"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Grucci&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Technologies & Tools
