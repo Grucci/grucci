@@ -7,7 +7,7 @@ ten<h1 align="left">Hi 👋, I'm Grucci</h1>
   <a href="https://github.com/Grucci">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grucci&layout=compact&theme=yeblu"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Grucci&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Grucci&" alt="Grucci" /> --!>
+  <img height="130em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Grucci&" alt="Grucci" />
     
 </div>
 
