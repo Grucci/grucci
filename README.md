@@ -40,7 +40,7 @@ ten<h1 align="left">Hi 👋, I'm Grucci</h1>
 
 <br/>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/iamgrucci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="iamgrucci" /></a>
    <a href="https://ko-fi.com/iamgrucci"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="100" alt="iamgrucci" /></a></p>
 <br>
@@ -49,7 +49,7 @@ ten<h1 align="left">Hi 👋, I'm Grucci</h1>
 
 <br/>
 
-<div align = "center">
+<h3 align="left">Connect with me</h3>
 
   [![codersrank](https://img.shields.io/badge/CodersRank-35A29F?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/grucci/)
   [![linkedin](https://img.shields.io/badge/LinkedIn-1D5D9B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-grucci-libona/)
@@ -57,7 +57,6 @@ ten<h1 align="left">Hi 👋, I'm Grucci</h1>
   [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grucci)
   [![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.grucci@gmail.com)
 
-</div>
 
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
