@@ -38,7 +38,16 @@ ten<h1 align="left">Hi 👋, I'm Grucci</h1>
 
 </div>
 
-  ##
+<br/>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/iamgrucci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="iamgrucci" /></a>
+   <a href="https://ko-fi.com/iamgrucci"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="100" alt="iamgrucci" /></a></p>
+<br>
+<br>
+<be>
+
+<br/>
 
 <div align = "center">
 
@@ -49,6 +58,7 @@ ten<h1 align="left">Hi 👋, I'm Grucci</h1>
   [![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.grucci@gmail.com)
 
 </div>
+
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
   
