@@ -55,13 +55,9 @@
   [![linkedin](https://img.shields.io/badge/LinkedIn-1D5D9B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-grucci-libona/)
   [![instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipegrucci/)
   [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grucci)
-  [![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.grucci@gmail.com)
+  [![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipe.grucci@gmail.com)
   [![medium](https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipe.grucci)
   
-&nbsp;<a href="https://llucaslleall.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>&nbsp;
-
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
   
