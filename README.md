@@ -41,7 +41,7 @@ ten<h1 align="left">Hi 👋, I'm Grucci</h1>
 <br/>
 
 <h3 align="left">Support</h3>
-<p><a href="[buymeacoffee.com/iamgrucci](https://buymeacoffee.com/iamgrucci)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="iamgrucci" /></a>
+<p><a href="https://buymeacoffee.com/iamgrucci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="iamgrucci" /></a>
    <a href="https://ko-fi.com/iamgrucci"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="100" alt="iamgrucci" /></a></p>
 <br>
 <br>
